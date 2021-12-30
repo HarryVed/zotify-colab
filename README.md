@@ -1,8 +1,18 @@
-[<img src="https://3.bp.blogspot.com/-apoBeWFycKQ/XhKB8fEprwI/AAAAAAAACM4/Sl76yzNSNYwlShIBrheDAum8L9qRtWNdgCLcBGAsYHQ/w1200-h630-p-k-no-nu/colab.png" alt="Colab Logo" title="Colab" align="right" height="60" />]()
-[<img src="https://i.imgur.com/hGXQWSl.png" alt="Zotify Logo" title="Zotify" align="right" height="60" />]()
+[<img src="https://gitlab.com/team-zotify/zotify-colab/-/raw/main/res/ZotifyColab.png" alt="Zotify Colab Logo" title="Zotify Colab" align="right" height="60" />]()
 # Zotify in Google Colaboratory
+
+<div>
+
 A notebook that downloads music and podcasts to your Google Drive.
+<img src="https://img.shields.io/static/v1?message=Google%20Colab&logo=googlecolab&color=f9aa00&logoColor=ffffff&label=%20&style=for-the-badge" align='right'/>
+
+<img src="https://img.shields.io/static/v1?message=Python&logo=python&color=306998&logoColor=ffffff&label=%20&style=for-the-badge" align='right'/>
+
+</div>
+
 ## Usage
+As we know, Google Colaboratory doesn't provide a way of opening notebooks from GitLab (see [#1305](https://github.com/googlecolab/colabtools/issues/1305)).<br>
+So in order to use this, you need to manually download the .ipynb file and load it on Colab.
 ## F.A.Q.
 ### Will my account get banned if I use this tool?
 
