@@ -13,6 +13,8 @@ A notebook that downloads music and podcasts to your Google Drive.
 ## Usage
 As we know, Google Colaboratory doesn't provide a way of opening notebooks from GitLab (see [#1305](https://github.com/googlecolab/colabtools/issues/1305)).<br>
 So in order to use this, you need to manually download the .ipynb file and load it on Colab.
+
+Also you'll need to set up a passphrase for your SSH key because otherwise it won't work.
 ## F.A.Q.
 ### Will my account get banned if I use this tool?
 
