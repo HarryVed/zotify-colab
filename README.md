@@ -21,9 +21,18 @@ So in order to use this, you need to manually download the .ipynb file and load 
 
 Currently no user has reported their account getting banned after using Zotify but we highly recommend using Zotify with a burner account.
 
-Alternatively, there is a configuration option labeled `DOWNLOAD_REAL_TIME`, this limits the download speed to the duration of the song being downloaded thus not appearing suspicious (This option is much slower and is only recommended for premium users who wish to download songs in high quality without buying premium on a burner account).
+Alternatively, there is a configuration option labeled `DOWNLOAD_REAL_TIME`, this limits the download speed to the duration of the song being downloaded thus appearing less suspicious.
+This option is much slower and is only recommended for premium users who wish to download songs in 320kbps without buying premium on a burner account.
+
 
 ### What do I do if I see "Your session has been terminated"?
 
 Don't worry, just try logging back in.
 Since 2018 Spotify started to randomize usernames of new accounts, please try again with your email instead.
+If you still see the incorrect username or password error, reset your password and you should be able to log back in.
+
+
+# Disclaimer
+
+Zotify Colab is intended to be used in compliance with DMCA, Section 1201, for educational, private and fair use. 
+Zotify Colab contributors are not responsible for any misuse of the program or source code.
