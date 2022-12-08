@@ -1,3 +1,13 @@
+# Zotify-Colab
+
+### Original Repository
+
+<a href="https://gitlab.com/team-zotify/zotify-colab"><b>HERE<b><a>
+
+#### This repository was imported when there were <ins>14 Commit's</ins> on official repository so if there is update in commit number on that repository consider updating this repository.
+
+---
+
 [<img src="https://gitlab.com/team-zotify/zotify-colab/-/raw/main/res/ZotifyColab.png" alt="Zotify Colab Logo" title="Zotify Colab" align="right" height="60" />]()
 # Zotify on Google Colaboratory
 
